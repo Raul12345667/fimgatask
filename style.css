@@ -1,0 +1,67 @@
+nav img{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.linkler{
+    display: inline;
+    margin-left: 200px;
+}
+.buttonnav{
+    color: white;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(165, 79, 42);
+    padding: 10px 20px;
+    margin-left: 100px;
+}
+.ikinci{
+    margin-left: 40px;
+}
+.img{
+    display: inline;
+}
+.Best{
+    display: inline;
+}
+.Marketing{
+    display: inline;
+    outline: 2px solid green;
+    color: rgb(208, 20, 20);
+}
+.bestmarketing { 
+    margin-left: 90px;
+    margin-top: 100px;
+}
+.section1 h1{
+    font-size: 60px;
+}
+.section1 p {
+    margin-left:90px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.get{
+    color: white;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(165, 79, 42);
+    padding: 10px 20px;
+    margin-left: 90px;
+}
+.watch {
+    margin-left: 50px;
+    background-color: white;
+    border: none;
+    color:  rgb(165, 79, 42);
+}
+#section2{
+    margin-top: 40px;
+}
+.ucuncu {
+    margin-left: 90px;
+    margin-top: 30px;
+}
